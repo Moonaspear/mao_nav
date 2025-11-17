@@ -50,9 +50,14 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
+    },
+    {
+      "id": "category-1763345382247",
+      "icon": "🔍",
+      "name": "冲浪必备",
+      "order": 0,
+      "sites": []
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "66d5b7dd59595d5a676d96a5335e5cf2a61723ea",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
