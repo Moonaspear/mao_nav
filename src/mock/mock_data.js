@@ -59,7 +59,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "猫猫导航🐱",
-  "_fileSha": "10b908a0d447739423de65a304b324051e17cbff",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
