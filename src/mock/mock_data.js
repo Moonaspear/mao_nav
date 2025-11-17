@@ -19,6 +19,13 @@ export const mockData = {
           "url": "http://116.255.243.132/guide.do?reqCode=indexInit",
           "description": "海外采购合同审批",
           "icon": "https://www.faviconextractor.com/favicon/116.255.243.132"
+        },
+        {
+          "id": "site-1763345246287",
+          "name": "DeepL",
+          "url": "https://www.deepl.com/zh/translator",
+          "description": "翻译网站",
+          "icon": "https://www.faviconextractor.com/favicon/www.deepl.com"
         }
       ]
     },
