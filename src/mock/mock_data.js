@@ -7,20 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1763344449496",
-          "name": "OA",
-          "url": "http://xt.cwb11.com:9999/sys/portal/page.jsp",
-          "description": "水电十一局办公OA",
-          "icon": "https://www.faviconextractor.com/favicon/xt.cwb11.com:9999"
-        },
-        {
-          "id": "site-1763344493192",
-          "name": "海外业务综合平台",
-          "url": "http://116.255.243.132/guide.do?reqCode=indexInit",
-          "description": "海外采购合同审批",
-          "icon": "https://www.faviconextractor.com/favicon/116.255.243.132"
-        },
-        {
           "id": "site-1763345246287",
           "name": "DeepL",
           "url": "https://www.deepl.com/zh/translator",
@@ -59,7 +45,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "ba07eae4ad6e820d0ca73680669852d8be93d8a8",
-  "search": "google"
+  "title": "导航首页🐱"
 }
