@@ -60,7 +60,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "932b08e65ea66f37759b002ea929eec1bdd644a9",
-  "search": "google"
+  "title": "导航首页🐱"
 }
