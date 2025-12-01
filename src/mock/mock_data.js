@@ -42,10 +42,23 @@ export const mockData = {
       "icon": "🔍",
       "name": "冲浪必备",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764561560038",
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.zhihu.com"
+        },
+        {
+          "id": "site-1764561600238",
+          "name": "BiliBili",
+          "url": "https://www.bilibili.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.bilibili.com"
+        }
+      ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "c376028c37bb89a6dd7f39f1777b6ce8983e7070",
-  "search": "google"
+  "title": "导航首页🐱"
 }
