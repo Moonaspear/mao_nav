@@ -56,11 +56,38 @@ export const mockData = {
           "url": "https://www.bilibili.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.bilibili.com"
+        },
+        {
+          "id": "site-1765075651766",
+          "name": "Youtube",
+          "url": "https://www.youtube.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.youtube.com"
+        }
+      ]
+    },
+    {
+      "id": "category-1765075167258",
+      "icon": "💻",
+      "name": "全家桶",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765075321752",
+          "name": "Gmail",
+          "url": "https://mail.google.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
+        },
+        {
+          "id": "site-1765075576095",
+          "name": "Google文档",
+          "url": "https://docs.google.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/color/48/google-docs--v1.png"
         }
       ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "932b08e65ea66f37759b002ea929eec1bdd644a9",
-  "search": "google"
+  "title": "导航首页🐱"
 }
