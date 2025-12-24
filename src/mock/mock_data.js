@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://www.deepl.com/zh/translator",
           "description": "翻译网站",
           "icon": "https://www.faviconextractor.com/favicon/www.deepl.com"
+        },
+        {
+          "id": "site-1766567473424",
+          "name": "deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "Deepseek",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
         }
       ]
     },
@@ -89,7 +96,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "a864efb91260175f8ebc30bc3971d91526b3838a",
-  "search": "google"
+  "title": "导航首页🐱"
 }
