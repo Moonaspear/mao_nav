@@ -92,11 +92,16 @@ export const mockData = {
           "url": "https://docs.google.com/",
           "description": "",
           "icon": "https://img.icons8.com/color/48/google-docs--v1.png"
+        },
+        {
+          "id": "site-1770014412737",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         }
       ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "499ed2a4870536dbb109f98b94e4ab32f3272336",
-  "search": "google"
+  "title": "导航首页🐱"
 }
