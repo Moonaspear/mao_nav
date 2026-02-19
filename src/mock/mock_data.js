@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1771519593534",
+          "name": "Google",
+          "url": "https://www.google.com/",
+          "description": "Google搜索",
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
+        },
+        {
           "id": "site-1763345246287",
           "name": "DeepL",
           "url": "https://www.deepl.com/zh/translator",
@@ -110,7 +117,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "de541a98896c67f65373cd007875bbce59e4a985",
-  "search": "google"
+  "title": "导航首页🐱"
 }
