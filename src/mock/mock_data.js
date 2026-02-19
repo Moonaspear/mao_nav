@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1771519710297",
+          "name": "Google",
+          "url": "https://www.google.com/",
+          "description": "Google搜索",
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
+        },
+        {
           "id": "site-1763345246287",
           "name": "DeepL",
           "url": "https://www.deepl.com/zh/translator",
@@ -19,13 +26,6 @@ export const mockData = {
           "url": "https://chat.deepseek.com/",
           "description": "Deepseek",
           "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
-        },
-        {
-          "id": "site-1771519710297",
-          "name": "Google",
-          "url": "https://www.google.com/",
-          "description": "Google搜索",
-          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
         }
       ]
     },
