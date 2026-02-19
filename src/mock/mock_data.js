@@ -41,6 +41,13 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "Github大佬云集资源众多",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1771519529197",
+          "name": "Cloudns",
+          "url": "https://www.cloudns.net/main/",
+          "description": "Cloudns第二域名托管",
+          "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
         }
       ]
     },
