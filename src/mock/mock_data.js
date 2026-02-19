@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1771519593534",
-          "name": "Google",
-          "url": "https://www.google.com/",
-          "description": "Google搜索",
-          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
-        },
-        {
           "id": "site-1763345246287",
           "name": "DeepL",
           "url": "https://www.deepl.com/zh/translator",
@@ -26,6 +19,13 @@ export const mockData = {
           "url": "https://chat.deepseek.com/",
           "description": "Deepseek",
           "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "site-1771519710297",
+          "name": "Google",
+          "url": "https://www.google.com/",
+          "description": "Google搜索",
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
         }
       ]
     },
@@ -117,7 +117,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航首页🐱",
-  "_fileSha": "177ce9f334e7c04736f967dbd0ae3590c5962987",
-  "search": "google"
+  "title": "导航首页🐱"
 }
